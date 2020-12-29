@@ -1,4 +1,4 @@
-#
+# Model-wise uncertainty decomposition
 
 Code to perform the data anaylsis of the paper "Model-wise uncertainty decomposition in multi-model ensemble hydrological projections"
 
